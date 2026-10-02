@@ -11,10 +11,10 @@ redirect_from:
   <h2 style="margin-top: 0.6em; margin-bottom: 0.2em; border-bottom: none;">Hye In (Kate) Kwon</h2>
   <p style="margin: 0;">PhD Candidate, Sport Management and Policy<br>Department of Kinesiology<br>University of Georgia</p>
 <p style="margin-top: 0.8em;">
-    <a href="mailto:Hyein.Kwon@uga.edu"><i class="fas fa-fw fa-envelope"></i> Email</a> ·
-    <a href="https://www.linkedin.com/in/katehyeinkwon"><i class="fab fa-fw fa-linkedin"></i> LinkedIn</a> ·
-    <a href="https://scholar.google.com/citations?user=1r0qQzsAAAAJ&hl=en"><i class="ai ai-fw ai-google-scholar"></i> Google Scholar</a> ·
-    <a href="https://orcid.org/0009-0009-7150-5050"><i class="ai ai-fw ai-orcid"></i> ORCID</a> ·
+    <a href="mailto:Hyein.Kwon@uga.edu" title="Email" style="margin: 0 0.4em;"><i class="fas fa-envelope"></i></a>
+    <a href="https://www.linkedin.com/in/katehyeinkwon" title="LinkedIn" style="margin: 0 0.4em;"><i class="fab fa-linkedin"></i></a>
+    <a href="https://scholar.google.com/citations?user=1r0qQzsAAAAJ&hl=en" title="Google Scholar" style="margin: 0 0.4em;"><i class="ai ai-google-scholar"></i></a>
+    <a href="https://orcid.org/0009-0009-7150-5050" title="ORCID" style="margin: 0 0.4em;"><i class="ai ai-orcid"></i></a>
   </p>
 </div>
 

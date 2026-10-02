@@ -37,23 +37,3 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
-/* Wider left sidebar on desktop, scales with window size */
-@media (min-width: 64em) {
-  .sidebar {
-    width: clamp(200px, 20vw, 280px) !important;
-  }
-  .author__avatar img {
-    width: 100%;
-    max-width: 100% !important;
-    height: auto;
-  }
-  .author__name {
-    font-size: 1.4em !important;
-  }
-  .author__bio {
-    font-size: 1em !important;
-  }
-  .author__urls {
-    font-size: 0.95em !important;
-  }
-}

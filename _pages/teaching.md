@@ -42,5 +42,5 @@ I am also prepared to teach in other areas of departmental need.
 - "Kate was an awesome instructor. She made sure the class was fun for everyone, and she was always there to help us. She never made us feel bad if we didn't know what we were doing."
 - "Kate was an amazing instructor who created a fun and safe environment. She challenged all her students to do their best and give their all."
 - "Kate Kwon is incredible! She is such a supportive instructor. She always maintained a positive and interactive environment, and my fellow students and I always looked forward to her classes."
-- "I really liked my instructor and the way the class was structured… I love how she emphasized respect to everyone. She really brought enthusiasm especially to the students with low confidence."
+- "I really liked my instructor and the way the class was structured. My instructor was very knowledgeable and I love how she emphasized respect to everyone. She really brought enthusiasm especially to the students with low confidence which really boosted my mood and motivation for class and I could say that for other students in class too. I would really recommend her to other classmates and would definitely choose her again."
 - "Kate has always been so clear about what was expected in this course and it was well organized which made it easier to understand what to do."

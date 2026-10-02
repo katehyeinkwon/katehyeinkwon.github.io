@@ -8,6 +8,7 @@ redirect_from:
 
 <div style="text-align: center; margin-bottom: 2.5em;">
   <img src="/images/Kwon pic.jpg" alt="Hye In (Kate) Kwon" style="width: 200px; max-width: 60%; border-radius: 50%;">
+  
   <h2 style="margin-top: 0.6em; margin-bottom: 0.2em; border-bottom: none;">Hye In (Kate) Kwon</h2>
   <p style="margin: 0;">PhD Candidate, Sport Management and Policy<br>Department of Kinesiology<br>University of Georgia<br>Athens, GA, United States</p>
 <p style="margin-top: 0.8em;">

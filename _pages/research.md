@@ -36,3 +36,22 @@ My dissertation examines digital transformation in the Olympic Movement across t
 - Kwon, H. I., Leopkey, B. Initiating Digital Transformation in the Olympic Movement: A Dynamic Capabilities Perspective. Data Collection & Preliminary Analysis Stage
 - Kwon, H. I., Leopkey, B. From Strategy to Practice: Translating Digital Transformation Initiatives within the Organizing Committees. Data Collection & Preliminary Analysis Stage
 - Kwon, H. I., Leopkey, B. Knowledge Management and External Transfer of Digital Transformation Across the Olympic Games. Data Collection & Preliminary Analysis Stage
+
+## Grants & Awards
+
+### [External Grants]
+
+- IOC Olympic Studies Centre, PhD and Early Career Academics Research Grant Program, 2027 cycle (Under review)
+
+### [Internal Research Funding]
+
+- UGA Mary Ella Lunday Soule Scholarship Award (Research Award), 2025–2026
+- UGA College of Education General Scholarship ($1,250), 2026
+
+### [Conference Awards]
+
+- Winner, 2022 EASM Student Sport Management Competition
+
+### [Professional Awards]
+
+- Seoul Metropolitan City Mayor's Award, for hosting the 100th National Sports Festival, 2019

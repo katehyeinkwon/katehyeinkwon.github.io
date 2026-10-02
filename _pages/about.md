@@ -7,9 +7,9 @@ redirect_from:
 ---
 
 <div style="text-align: center; margin-bottom: 2.5em;">
-  <img src="/images/Kate_pic.jpg" alt="Hye In (Kate) Kwon" style="width: 200px; max-width: 60%; border-radius: 50%;">
+  <img src="/images/Kwon pic.jpg" alt="Hye In (Kate) Kwon" style="width: 200px; max-width: 60%; border-radius: 50%;">
   <h2 style="margin-top: 0.6em; margin-bottom: 0.2em; border-bottom: none;">Hye In (Kate) Kwon</h2>
-  <p style="margin: 0;">PhD Candidate, Sport Management and Policy<br>University of Georgia</p>
+  <p style="margin: 0;">PhD Candidate & Instructor of Record<br>Sport Management and Policy<br>University of Georgia</p>
   <p style="margin-top: 0.8em;">
     <a href="mailto:Hyein.Kwon@uga.edu">Email</a> ·
     <a href="https://www.linkedin.com/in/katehyeinkwon">LinkedIn</a> ·

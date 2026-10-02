@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
@@ -19,30 +18,26 @@ I am also prepared to teach in other areas of departmental need.
 
 ## Teaching Experience
 
-### Instructor of Record, University of Georgia (2021–Present)
+### [Instructor of Record, University of Georgia, 2021–Present]
 
-| Course | Title | Sections |
-|---|---|:---:|
-| KINS 4840 | Sport Event Management | 1 |
-| PEDB 1380 / 1390 | Beginner / Intermediate Volleyball | 16 / 3 |
-| PEDB 1950 / 1950E | FFL Walking / Online Walking | 10 / 4 |
-| PEDB 1930 | FFL Jogging | 2 |
-| PEDB 1090 | Outdoor Adventure | 3 |
+- KINS 4840: Sport Event Management (1 section)
+- PEDB 1380 / 1390: Beginner / Intermediate Volleyball (16 / 3 sections)
+- PEDB 1950 / 1950E: FFL Walking / Online Walking (10 / 4 sections)
+- PEDB 1930: FFL Jogging (2 sections)
+- PEDB 1090: Outdoor Adventure (3 sections)
 
-### Invited Lectures
+### [Invited Lectures]
 
-| Course | Title | Sessions |
-|---|---|:---:|
-| KINS 7270 | Sport Events Management (Graduate) | 2 |
-| KINS 4840 | Sport Events Management | 10 |
-| KINS 3430 | Introduction to Sport Management | 4 |
-| FYOS 1001 | First-Year Odyssey | 6 |
+- KINS 7270: Sport Events Management, Graduate Level (2 sessions)
+- KINS 4840: Sport Events Management (10 sessions)
+- KINS 3430: Introduction to Sport Management (4 sessions)
+- FYOS 1001: First-Year Odyssey (6 sessions)
 
 ## Student Evaluations
 
 **Overall instructor rating: 4.7 / 5.0** (official UGA course evaluations)
 
-### Selected Student Comments
+### [Selected Student Comments]
 
 - "Kate was an awesome instructor. She made sure the class was fun for everyone, and she was always there to help us. She never made us feel bad if we didn't know what we were doing."
 - "Kate was an amazing instructor who created a fun and safe environment. She challenged all her students to do their best and give their all."

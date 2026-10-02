@@ -20,7 +20,6 @@ My research interests broadly revolve around topics related to organizational ch
 
 ### [Research in Progress]
 
-- Leopkey, B., Kwon, H. I., Ellis, D., Dowling, M. Navigating the AI Paradigm Shift: Analyzing the Adoption of Artificial Intelligence in National Sport Governing Bodies in the United States. Final Writing Stage
 - Kwon, H. I., Anderson, B., Leopkey, B., Baker, T. Navigating Labor Changes: Managerial Perspectives on Governance Adaptations in Minor League Baseball. Planning Stage
 
 ## (2) Technological Change and Innovation

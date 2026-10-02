@@ -24,7 +24,7 @@ repository               : "katehyeinkwon/katehyeinkwon.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Hye In (Kate) Kwon"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate, Sport Management and Policy, University of Georgia"
   location         : "Athens, GA, United States"
@@ -179,10 +179,13 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  research:
     output: true
     permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  teaching:
     output: true
     permalink: /:collection/:path/
   portfolio:

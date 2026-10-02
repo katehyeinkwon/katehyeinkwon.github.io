@@ -25,4 +25,4 @@ I am a PhD candidate in Sport Management and Policy at the University of Georgia
 
 My research focuses broadly on organizational change, innovation, and strategic management in sport organizations. Building on this, my dissertation, *Understanding Digital Transformation in the Olympic Movement*, examines how digital transformation is initiated, implemented, and transferred across the Olympic Movement from an organization theory perspective.
 
-On this site, you can find information about my [research](/research/) and [teaching](/teaching/), as well as my [CV](/files/cv.pdf). Feel free to contact me at [Hyein.Kwon@uga.edu](mailto:Hyein.Kwon@uga.edu).
+On this site, you can find information about my [research](/research/) and [teaching](/teaching/), as well as my [CV](/files/Kwon, Hye In (Kate)-Academic CV (10.2).pdf). Feel free to contact me at [Hyein.Kwon@uga.edu](mailto:Hyein.Kwon@uga.edu).

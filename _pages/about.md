@@ -1,10 +1,7 @@
 ---
-permalink: /
-title: "About Me"
+title: "Research"
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 I am a PhD candidate in Sport Management and Policy at the University of Georgia, studying under Dr. Becca Leopkey, with an anticipated graduation date of June 2027. 
 

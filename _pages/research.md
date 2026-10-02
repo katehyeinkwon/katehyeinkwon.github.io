@@ -24,14 +24,6 @@ My research interests broadly revolve around topics related to organizational ch
 
 ## (2) Technological Change and Innovation
 
-### [Dissertation Research]
-
-My dissertation examines digital transformation in the Olympic Movement across three interconnected processes: strategic initiation, operational implementation, and knowledge transfer. This work extends sport management research on digital transformation, which has largely focused on the impacts of specific digital technologies on sport organizations. It broadens this perspective by examining digital transformation as an ongoing organizational process and by extending the empirical context beyond permanent organizations to project-based, temporary-permanent interorganizational settings.
-
-- Kwon, H. I., Leopkey, B. Initiating Digital Transformation in the Olympic Movement: A Dynamic Capabilities Perspective. Data Collection & Preliminary Analysis Stage
-- Kwon, H. I., Leopkey, B. From Strategy to Practice: Translating Digital Transformation Initiatives within the Organizing Committees. Data Collection & Preliminary Analysis Stage
-- Kwon, H. I., Leopkey, B. Knowledge Management and External Transfer of Digital Transformation Across the Olympic Games. Data Collection & Preliminary Analysis Stage
-
 ### [Peer-Reviewed Contribution]
 
 - Kwon, H. I., Ellis, D., Leopkey, B. "Digital Transformation in Sport Events." In the Oxford Research Encyclopedia of Sport and Exercise. Ed. Steven Murray. New York: Oxford University Press, forthcoming. doi: 10.1093/acrefore/9780197791295.013.ORE_SPE-00117.R1
@@ -39,6 +31,16 @@ My dissertation examines digital transformation in the Olympic Movement across t
 ### [Research in Progress]
 
 - Leopkey, B., Kwon, H. I., Ellis, D., Dowling, M. Navigating the AI Paradigm Shift: Analyzing the Adoption of Artificial Intelligence in National Sport Governing Bodies in the United States. Final Writing Stage
+
+## Dissertation Research
+
+Building on these two streams, my dissertation examines digital transformation in the Olympic Movement across three interconnected processes: strategic initiation, operational implementation, and knowledge transfer. This work extends sport management research on digital transformation, which has largely focused on the impacts of specific digital technologies on sport organizations. It broadens this perspective by examining digital transformation as an ongoing organizational process and by extending the empirical context beyond permanent organizations to project-based, temporary-permanent interorganizational settings.
+
+### [Three Specific Studies]
+
+- Kwon, H. I., Leopkey, B. Initiating Digital Transformation in the Olympic Movement: A Dynamic Capabilities Perspective. Data Collection & Preliminary Analysis Stage
+- Kwon, H. I., Leopkey, B. From Strategy to Practice: Translating Digital Transformation Initiatives within the Organizing Committees. Data Collection & Preliminary Analysis Stage
+- Kwon, H. I., Leopkey, B. Knowledge Management and External Transfer of Digital Transformation Across the Olympic Games. Data Collection & Preliminary Analysis Stage
 
 ## Grants & Awards
 

@@ -37,3 +37,12 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+/* Wider left sidebar on desktop */
+@media (min-width: 64em) {
+  .sidebar {
+    width: 260px;
+  }
+  .author__avatar img {
+    max-width: 200px;
+  }
+}

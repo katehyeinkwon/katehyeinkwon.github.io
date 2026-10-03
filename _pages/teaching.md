@@ -8,7 +8,7 @@ Having taught nearly 1,600 students across in-person and online courses at the U
 
 The same principles guide my work outside of formal courses. As advisor for the UGA Girls' Club: Women in Sport Chapter, I mentor undergraduate students pursuing careers in the sport industry and support their professional development by organizing guest lectures and networking opportunities. Through this role, I have come to see mentoring as an extension of my teaching, as both involve helping students connect their academic experiences with their own professional goals.
 
-**Recipient of the 2025 UGA Outstanding Teaching Assistant Award.**
+**Recipient of the 2025 UGA Outstanding Teaching Assistant Award**
 
 ## Teaching Interests
 

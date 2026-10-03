@@ -10,7 +10,7 @@ redirect_from:
   <img src="/images/Kwon pic.jpg" alt="Hye In (Kate) Kwon" style="width: 200px; max-width: 60%; border-radius: 50%;">
   
   <h2 style="margin-top: 0.6em; margin-bottom: 0.2em; border-bottom: none;">Hye In (Kate) Kwon</h2>
-  <p style="margin: 0;">PhD Candidate, Sport Management and Policy<br>Department of Kinesiology<br>University of Georgia<br>Athens, GA, United States</p>
+  <p style="margin: 0;">PhD Candidate<br>Department of Kinesiology<br>University of Georgia<br>Athens, GA, United States</p>
 <p style="margin-top: 0.8em;">
     <a href="mailto:Hyein.Kwon@uga.edu" title="Email" style="margin: 0 0.4em;"><i class="fas fa-envelope"></i></a>
     <a href="https://www.linkedin.com/in/katehyeinkwon" title="LinkedIn" style="margin: 0 0.4em;"><i class="fab fa-linkedin"></i></a>

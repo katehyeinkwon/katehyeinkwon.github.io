@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My interest in sport management developed through practice. Before entering academia, I worked for the PyeongChang 2018 Organizing Committee and the Seoul Sports Council, a provincial branch of the Korean Sport & Olympic Committee. These experiences sparked my interest in how sport organizations manage change and led me to pursue graduate studies.
+My interest in sport management developed through practice. Before entering academia, I worked for the PyeongChang 2018 Organizing Committee and the Seoul Sports Council, a provincial branch of the Korean Sport & Olympic Committee. In these roles, I experienced firsthand the complexity of large-scale sport event delivery and a legislatively mandated merger within the national sport system. These experiences sparked my interest in how sport organizations manage change and led me to pursue graduate studies. 
 
 My research interests broadly revolve around topics related to organizational change, innovation, and strategic management. My current work can be broken into two distinct but complementary streams: (1) structural and governance change, and (2) technological change and innovation in sport organizations.
 

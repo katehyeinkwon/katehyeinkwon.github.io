@@ -12,7 +12,7 @@ The same principles guide my work outside of formal courses. As advisor for the 
 
 ## Teaching Interests
 
-Sport event management · Sport marketing · Strategic management · Risk management · Organizational theory and behavior · Qualitative methods
+Sport event management · Sport marketing · Strategic management · Risk management · Organizational theory and behavior · Sport Policy & Governance · Qualitative methods
 
 I am also prepared to teach in other areas of departmental need.
 
@@ -21,15 +21,15 @@ I am also prepared to teach in other areas of departmental need.
 ### [Instructor of Record, University of Georgia, 2021–Present]
 
 - KINS 4840: Sport Event Management (1 section)
-- PEDB 1380 / 1390: Beginner / Intermediate Volleyball (16 / 3 sections)
-- PEDB 1950 / 1950E: FFL Walking / Online Walking (10 / 4 sections)
+- PEDB 1380 / 1390: Beginner & Intermediate Volleyball (16 / 3 sections)
+- PEDB 1950 / 1950E: FFL Walking & Online Walking (10 / 4 sections)
 - PEDB 1930: FFL Jogging (2 sections)
 - PEDB 1090: Outdoor Adventure (3 sections)
 
 ### [Invited Lectures]
 
-- KINS 7270: Sport Events Management, Graduate Level (2 sessions)
-- KINS 4840: Sport Events Management (10 sessions)
+- KINS 7270: Sport Event Management, Graduate Level (2 sessions)
+- KINS 4840: Sport Event Management (10 sessions)
 - KINS 3430: Introduction to Sport Management (4 sessions)
 - FYOS 1001: First-Year Odyssey (6 sessions)
 
